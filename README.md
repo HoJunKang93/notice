@@ -70,6 +70,6 @@
 
 [캠프 만족도조사 작성하러가기](https://docs.google.com/forms/d/1xQWrnbkl9kOmG9zwuQ8Va6QfoaFB5uIQo8PgVa18zK0/)
 
-[캠프 후기 작성하러가기](http://osam.oss.kr/board/index.jsp?code=camp2017/)
+[캠프 후기 작성하러가기](http://osam.oss.kr/board/index.jsp?code=camp2017)
 
 
