@@ -1,9 +1,5 @@
 [대시보드 바로가기](https://osam2017.github.io/notice/)
 
-##  캠프관련 공지사항입니다.
-
-[대시보드 바로가기](https://osam2017.github.io/notice/)
-
 ## OSAM 2017 CAMP 공지사항입니다.
 
 우수한 성적으로 선발된 군장병 여러분 환영합니다.
