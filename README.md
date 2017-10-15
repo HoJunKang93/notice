@@ -1,4 +1,4 @@
-[대시보드 바로가기](https://osam2017.github.io/notice/)
+[ 실시간 캠프 진행현황 바로가기](https://osam2017.github.io/notice/)
 
 ## OSAM 2017 CAMP 공지사항입니다.
 
@@ -67,6 +67,9 @@
 | 5일차              | 09:00~12:00(3h)                          | 프로젝트 발표 및 멘토링                            |       |
 | 12:00~           | 기념촬영 및 부대복귀                              |                                          |       |
 
-- **설문조사**
-- **모니터링**
+
+[캠프 만족도조사 작성하러가기](https://docs.google.com/forms/d/1xQWrnbkl9kOmG9zwuQ8Va6QfoaFB5uIQo8PgVa18zK0/)
+
+[캠프 후기 작성하러가기](http://osam.oss.kr/board/index.jsp?code=camp2017/)
+
 
