@@ -70,4 +70,3 @@
 - **설문조사**
 - **모니터링**
 
-https://github.com/kosslab-kr/kosscontributhon2017
